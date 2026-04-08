@@ -9,7 +9,7 @@ import {
 
 const supabase = createClient(
   "https://ezuteasrojjpikncekaw.supabase.co",
-  "sb_publishable_pdCp2LXSslt_xNnCFw85FA_UStpz5Kc"
+  "sb_publishable_12Z0QTMWVsxxMV40PIeIpQ_LU_r-Jpj"
 );
 
 const START_DATE = new Date("2025-05-02");
