@@ -8,7 +8,7 @@ import {
 } from "lucide-react";
 
 const supabase = createClient(
-  "https://ezuteasrojjpikncekaw.supabase.co",
+  "https://nnavfzcaoxrjwbrtzckj.supabase.co",
   "sb_publishable_12Z0QTMWVsxxMV40PIeIpQ_LU_r-Jpj"
 );
 
